@@ -1,16 +1,25 @@
-# untitled
+# Party management
+In today’s world, we folks organize and go to so many parties. Parties like Birthdays,
+Marriages, Engagements, Anniversaries, and many more always attract us.
+At parties, there is a lot of food being wasted due to people’s preferences. Understand this
+thing in a simple manner. Fo example, suppose you like Vegetarian food and there are similar
+so many peoples coming to the party like Veg and Non-Veg count is less.So, there is a
+chance that Non-Veg food will be wasted.So, Why not develop a Mobile Application based
+on Food preferences and the number of people coming to the Party?.This would be great!!
 
-A new Flutter project.
+## Features
+. Food Preferences option will be provided to the Guests
+• Number of guests coming for the Party
+• Better management for parties and functions.
+• Timing and Venue will be provided through Google Maps
+• The dress code can be added for the party
 
-## Getting Started
+## How to run this project
 
-This project is a starting point for a Flutter application.
+`Updates will be up soon`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Languages And framework used:
+1.Flutter- dart
+2.Firebase for the DB
+3.Android Studio as the IDE
+4.Version control- Github
