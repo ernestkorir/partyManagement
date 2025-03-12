@@ -8,26 +8,26 @@ chance that Non-Veg food will be wasted.So, Why not develop a Mobile Application
 on Food preferences and the number of people coming to the Party?.This would be great!!
 
 ## Features
-. Food Preferences option will be provided to the Guests
-• Number of guests coming for the Party
-• Better management for parties and functions.
-• Timing and Venue will be provided through Google Maps
-• The dress code can be added for the party
+. Food Preferences option will be provided to the Guests  <br>
+• Number of guests coming for the Party  <br>
+• Better management for parties and functions.  <br>
+• Timing and Venue will be provided through Google Maps  <br>
+• The dress code can be added for the party  <br>
 
 ## How to run this project
-First clone the project by running the following command:
+First clone the project by running the following command:  <br>
 `git clone https://github.com/ernestkorir/partyManagement.git`
 
 Then install flutter dependencies by running the following command:
-`flutter pub get`
+`flutter pub get`  <br>
 
 Then run the project by running the following command:
-`flutter run`
+`flutter run`  <br>
 
 After that you can start the AVD and run the app.
 
 ## Languages And framework used:
-1.Flutter- dart
-2.Firebase for the DB
-3.Android Studio as the IDE
-4.Version control- Github
+1.Flutter- dart <br>
+2.Firebase for the DB <br>
+3.Android Studio as the IDE <br>
+4.Version control- Github <br>
