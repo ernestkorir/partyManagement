@@ -15,8 +15,16 @@ on Food preferences and the number of people coming to the Party?.This would be 
 • The dress code can be added for the party
 
 ## How to run this project
+First clone the project by running the following command:
+`git clone https://github.com/ernestkorir/partyManagement.git`
 
-`Updates will be up soon`
+Then install flutter dependencies by running the following command:
+`flutter pub get`
+
+Then run the project by running the following command:
+`flutter run`
+
+After that you can start the AVD and run the app.
 
 ## Languages And framework used:
 1.Flutter- dart
